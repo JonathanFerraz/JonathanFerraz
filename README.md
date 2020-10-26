@@ -1,6 +1,6 @@
 # Olá, sou Jonathan Ferraz 👋
 
-: man_technologist: Analista Salesforce at Excellence Brazil
+:man_technologist: Analista Salesforce at Excellence Brazil
 
 🎯 Focado em ReactJS, NodeJS, React Native e Typescript
 
@@ -11,8 +11,8 @@
 💥 Em 2018 comecei a programar, fiz vários cursos de desenvolvimento web e adorei.
 
 ℹ Mais informações:
--: earth_americas: Sou de Guaíba - RS
--: video_game: Adoro jogar no PC
+- :earth_americas: Sou de Guaíba - RS
+- :video_game: Adoro jogar no PC
 
 ### Tocando no Spotify 🎧
 
