@@ -1,8 +1,24 @@
-### Spotify Playing 🎧
+# Olá, sou Jonathan Ferraz 👋
+
+: man_technologist: Analista Salesforce at Excellence Brazil
+
+🎯 Focado em ReactJS, NodeJS, React Native e Typescript
+
+## Sobre mim 🖊
+
+🖥 Sempre gostei de usar o computador, comecei aos 9 anos e desde então sigo nesse caminho que hoje em dia é minha paixão.
+
+💥 Em 2018 comecei a programar, fiz vários cursos de desenvolvimento web e adorei.
+
+ℹ Mais informações:
+-: earth_americas: Sou de Guaíba - RS
+-: video_game: Adoro jogar no PC
+
+### Tocando no Spotify 🎧
 
 [<img src="https://jonathanchagas-spotify.vercel.app/api/spotify" alt="Jonathan Ferraz Spotify Playing" width="350" />](https://open.spotify.com/user/jonathan.silva9785)
 
-### Connect with me:
+### Conecte-se comigo:
 
 [<img align="left" alt="Jonathan Ferraz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Jonathan Ferraz | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
@@ -11,7 +27,7 @@
 
 <br />
 
-### Languages and Tools:
+### Linguagens:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
