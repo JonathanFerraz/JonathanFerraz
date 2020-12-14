@@ -1,6 +1,6 @@
 # Olá, sou Jonathan Ferraz 👋
 
-:man_technologist: Analista Salesforce at Excellence Brazil
+:man_technologist: Front-End Developer at Compasso UOL
 
 🎯 Focado em ReactJS, NodeJS, React Native e Typescript
 
