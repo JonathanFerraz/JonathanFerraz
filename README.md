@@ -2,7 +2,7 @@
 
 :man_technologist: Front-End Developer at Compasso UOL
 
-🎯 Focado em ReactJS, NodeJS, React Native e Typescript
+🎯 Focado em ReactJS, React Native e Typescript
 
 ## Sobre mim 🖊
 
@@ -37,7 +37,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
 [website]: *
-[linkedin]: https://www.linkedin.com/in/jonathanferraz9785/
-[facebook]: https://www.facebook.com/Jonathan.Ferraz9785/
-[instagram]: https://www.instagram.com/_jhonferraz/
+[linkedin]: https://www.linkedin.com/in/johnFerrazChagas/
+[facebook]: https://www.facebook.com/johnFerrazChagas/
+[instagram]: https://www.instagram.com/_johnFerraz/
 [codepen]: https://codepen.io/_jhonferraz
