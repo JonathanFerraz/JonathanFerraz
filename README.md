@@ -1,15 +1,34 @@
-<img src="assets/Rainbow.gif" width="100%">
+<img src=".github/rainbow.gif" width="100%">
 
-<img align="right" width="500" height="500" src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/assets/home-banner-logo.png">
+<div align="center">
+  <img src=".github/hero-banner.png" alt="Profile Picture">
+</div>
 
-# Olá, sou Jonathan Ferraz
+<h3 align="center"> Olá, sou Jonathan Ferraz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&color=4285F4&width=200&lines=Desenvolvedor+WEB;React%2C+typescript)](https://git.io/typing-svg)
+<hr>
 
-[![Github](https://img.shields.io/github/followers/JonathanFerraz?style=social)](https://github.com/JonathanFerraz)
-[![Github](https://img.shields.io/github/last-commit/JonathanFerraz/JonathanFerraz)](https://github.com/JonathanFerraz/JonathanFerraz)
-[![Github](https://img.shields.io/github/stars/JonathanFerraz/JonathanFerraz?style=social)](https://github.com/JonathanFerraz/JonathanFerraz)
-[![Github](https://img.shields.io/github/watchers/JonathanFerraz/JonathanFerraz?style=social)](https://github.com/JonathanFerraz/JonathanFerraz)
+<div align="center">
+<a href="https://www.linkedin.com/in/johnFerrazChagas/">
+  <img alt="Linkdein" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
+</a>
+<a href="https://www.instagram.com/_johnFerraz/">
+  <img alt="Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+</a>
+<a href="https://www.facebook.com/johnFerrazChagas/">
+  <img alt="Facebook" width="22px" src="https://img.icons8.com/color/48/000000/facebook.png"/>
+  <a href="mailto:jonathanferraz.chagas@gmail.com">
+  <img alt="Gmail" width="22px" src="https://img.icons8.com/color/48/000000/apple-mail.png"/>
+</a>
+<a href="https://github.com/JonathanFerraz/">
+  <img alt="Github" width="22px" src="https://img.icons8.com/fluency/48/000000/github.png"/>
+</a>
+<a href="https://codepen.io/_jhonferraz">
+  <img alt="CodePen" width="22px" src="https://img.icons8.com/color/48/000000/codepen.png"/>
+</a>
+</div>
+
+<hr>
 
 ## Sobre mim
 
@@ -17,29 +36,7 @@ Sempre gostei de usar o computador, comecei aos 9 anos e desde então sigo nesse
 
 Em 2018 comecei a programar, fiz vários cursos de desenvolvimento web e adorei.
 
-## Redes Sociais
-
-<a href="https://www.linkedin.com/in/johnFerrazChagas/">
-  <img align="left" alt="Linkdein" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
 </a>
-<a href="https://www.instagram.com/_johnFerraz/">
-  <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
-</a>
-<a href="https://www.facebook.com/johnFerrazChagas/">
-  <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/color/48/000000/facebook.png"/>
-  <a href="mailto:jonathanferraz.chagas@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/color/48/000000/apple-mail.png"/>
-</a>
-<a href="https://github.com/JonathanFerraz/">
-  <img align="left" alt="Github" width="22px" src="https://img.icons8.com/fluency/48/000000/github.png"/>
-</a>
-<a href="https://codepen.io/_jhonferraz">
-  <img align="left" alt="CodePen" width="22px" src="https://img.icons8.com/color/48/000000/codepen.png"/>
-</a>
-
-</a>
-<br>
-<br>
 
 ## Tecnologias
 
@@ -101,7 +98,7 @@ Em 2018 comecei a programar, fiz vários cursos de desenvolvimento web e adorei.
 </div>
 
 <div>
-  <img src="assets/Gradients.png" alt="Gradients" width="100%">
+  <img src=".github/gradients.png" alt="Gradients" width="100%">
 </div>
 
-<img src="assets/Rainbow.gif" width="100%">
+<img src=".github/Rainbow.gif" width="100%">
