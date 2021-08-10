@@ -1,6 +1,6 @@
 <img align="right" width="500" height="500" src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/assets/home-banner-logo.png">
 
-# Olá, sou Jonathan Ferraz 👋.
+# Olá, sou Jonathan Ferraz
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&color=4285F4&width=200&lines=Desenvolvedor+WEB;React%2C+typescript)](https://git.io/typing-svg)
 
@@ -41,4 +41,48 @@ Em 2018 comecei a programar, fiz vários cursos de desenvolvimento web e adorei.
 
 ## Tecnologias
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![ReactJS](https://img.icons8.com/office/28/000000/react.png)![Windows](https://img.icons8.com/fluency/30/000000/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Console](https://img.icons8.com/fluency/30/000000/console.png)
+<a href="#">
+  <img align="left" alt="HTML 5" width="22px" src="https://img.icons8.com/color/30/html-5.png"/>
+</a>
+<a href="#">
+  <img align="left" alt="CSS 3" width="22px" src="https://img.icons8.com/color/30/css3.png"/>
+</a>
+<a href="#">
+  <img align="left" alt="SASS / SCSS" width="22px" src="https://img.icons8.com/color/30/sass.png"/>
+</a>
+<a href="#">
+  <img align="left" alt="Javascript" width="22px" src="https://img.icons8.com/color/30/javascript.png"/>
+</a>
+<a href="#">
+  <img align="left" alt="NodeJs" width="22px" src="https://img.icons8.com/color/30/nodejs.png"/>
+</a>
+<a href="#">
+  <img align="left" alt="NPM" width="22px" src="https://img.icons8.com/color/30/npm.png"/>
+</a>
+<a href="#">
+  <img align="left" alt="GitHub" width="22px" src="https://img.icons8.com/material-outlined/30/github.png"/>
+</a>
+<a href="#">
+  <img align="left" alt="GIT" width="22px" src="https://img.icons8.com/color/30/git.png"/>
+</a>
+<a href="#">
+  <img align="left" alt="GitLab" width="22px" src="https://img.icons8.com/color/30/gitlab.png"/>
+</a>
+<a href="#">
+  <img align="left" alt="VS Code" width="22px" src="https://img.icons8.com/color/30/visual-studio-code-2019.png"/>
+</a>
+<a href="#">
+  <img align="left" alt="React" width="22px" src="https://img.icons8.com/office/30/000000/react.png"/>
+</a>
+<a href="#">
+  <img align="left" alt="Windows" width="22px" src="https://img.icons8.com/fluency/30/000000/windows-10.png"/>
+</a>
+<a href="#">
+  <img align="left" alt="Ubuntu" width="22px" src="https://img.icons8.com/color/30/ubuntu--v1.png"/>
+</a>
+<a href="#">
+  <img align="left" alt="Linux" width="22px" src="https://img.icons8.com/color/30/linux.png"/>
+</a>
+<a href="#">
+  <img align="left" alt="Console" width="22px" src="https://img.icons8.com/fluency/30/000000/console.png"/>
+</a>
