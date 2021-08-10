@@ -2,7 +2,7 @@
 
 # Olá, sou Jonathan Ferraz 👋.
 
-[![Typing SVG](<https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+Front-End+(React);React+Native%2C+Expo>)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&color=4285F4&width=200&lines=Desenvolvedor+WEB;React%2C+typescript)](https://git.io/typing-svg)
 
 [![Github](https://img.shields.io/github/followers/JonathanFerraz?style=social)](https://github.com/JonathanFerraz)
 [![Github](https://img.shields.io/github/last-commit/JonathanFerraz/JonathanFerraz)](https://github.com/JonathanFerraz/JonathanFerraz)
