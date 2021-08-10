@@ -1,3 +1,9 @@
+<img src="assets/Rainbow.gif" width="100%">
+
+<div align="center">
+  <img src="assets/Hero.png" alt="Profile Picture">
+</div>
+
 <img align="right" width="500" height="500" src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/assets/home-banner-logo.png">
 
 # Olá, sou Jonathan Ferraz
@@ -86,3 +92,23 @@ Em 2018 comecei a programar, fiz vários cursos de desenvolvimento web e adorei.
 <a href="#">
   <img align="left" alt="Console" width="22px" src="https://img.icons8.com/fluency/30/000000/console.png"/>
 </a>
+
+<h3>📈 Interesting numbers</h3>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanFerraz&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
+</div>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=JonathanFerraz&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/>
+</div>
+
+<div>
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=JonathanFerraz&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF">
+</div>
+
+<div>
+  <img src="assets/Gradients.png" alt="Gradients" width="100%">
+</div>
+
+<img src="assets/Rainbow.gif" width="100%">
