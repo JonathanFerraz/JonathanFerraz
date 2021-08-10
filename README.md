@@ -1,6 +1,4 @@
 <img src="assets/Rainbow.gif" width="100%">
-<br>
-<br>
 
 <img align="right" width="500" height="500" src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/assets/home-banner-logo.png">
 
