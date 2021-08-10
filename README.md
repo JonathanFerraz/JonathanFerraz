@@ -1,7 +1,7 @@
-<img src=".github/rainbow.gif" width="100%">
+<img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
 
 <div align="center">
-  <img src=".github/hero-banner.png" alt="Profile Picture">
+  <img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/hero-banner.png" alt="Profile Picture">
 </div>
 
 <h3 align="center"> Olá, sou Jonathan Ferraz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
@@ -98,7 +98,7 @@ Em 2018 comecei a programar, fiz vários cursos de desenvolvimento web e adorei.
 </div>
 
 <div>
-  <img src=".github/gradients.png" alt="Gradients" width="100%">
+  <img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/gradients.png" alt="Gradients" width="100%">
 </div>
 
-<img src=".github/Rainbow.gif" width="100%">
+<img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
